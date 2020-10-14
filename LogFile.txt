@@ -1,0 +1,3 @@
+Operation		Inputs		Outputs
+Multiply		1,7		7
+Modulus		2,5		0
